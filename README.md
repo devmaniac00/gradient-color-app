@@ -1,39 +1,35 @@
-# Short directions
+# Quick Setup Guide
 
-## Available Scripts
+## How to Get Started
 
-First, clone this repository to your local environment. To do it run:
+Begin by cloning this repository to your local environment. Execute the following command:
 
 ### `git clone https://github.com/CodeSculptorJS/houses-app.git`
 
-After cloning, you can navigate into the cloned directory:
+Once cloned, navigate to the project directory:
 
 ### `cd houses-app`
 
-Install all requiered dependancies with:
+Install all required dependencies with:
 
-### `npm i`
+### `npm install`
 
-In the project directory, you can run:
+In the project directory, launch the app with:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This command runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) in your browser to view it.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page automatically reloads when you make changes, and any lint errors are displayed in the console.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Build the app for production to the `build` folder. This process correctly bundles React in production mode and optimizes the build for optimal performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The build is minified, and filenames include hashes, indicating readiness for deployment.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+For more information on deployment, refer to the [deployment section](https://facebook.github.io/create-react-app/docs/deployment).
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Explore the [troubleshooting guide](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) for solutions if the minification process encounters issues.
