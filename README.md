@@ -4,7 +4,7 @@
 
 Begin by cloning this repository to your local environment. Execute the following command:
 
-### `git clone https://github.com/CodeSculptorJS/houses-app.git`
+### `git clone https://github.com/devmaniac00/gradient-color.git`
 
 Once cloned, navigate to the project directory:
 
