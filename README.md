@@ -4,11 +4,11 @@
 
 Begin by cloning this repository to your local environment. Execute the following command:
 
-### `git clone https://github.com/devmaniac00/gradient-color.git`
+### `git clone https://github.com/devmaniac00/gradient-color-app.git`
 
 Once cloned, navigate to the project directory:
 
-### `cd houses-app`
+### `cd gradient-color-app`
 
 Install all required dependencies with:
 
